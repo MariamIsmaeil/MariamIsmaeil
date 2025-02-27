@@ -37,10 +37,4 @@ An app providing **Islamic content**, including prayer times and educational res
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariam-osama)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MariamOsama)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)  
-
----
-
-💡 **"Technology is best when it brings people together."**  
+[![LinkedIn](https://www.linkedin.com/in/mariam-ismaeil-071417266/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
